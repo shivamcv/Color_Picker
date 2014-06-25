@@ -1,0 +1,66 @@
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Release\App1.exe
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Release\App1.pdb
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Release\resources.pri
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Release\AppxManifest.xml
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Release\App1.build.appxrecipe
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Release\Color_Picker.dll
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Release\Color_Picker.pdb
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Release\Color_Picker.pri
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\App1.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\App.g.i.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\App.g.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\Common\StandardStyles.g.i.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\Common\StandardStyles.g.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\MainPage.g.i.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\MainPage.g.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\XamlTypeInfo.g.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\App.xaml
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\Common\StandardStyles.xaml
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\MainPage.xaml
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\App1.exe
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\App1.pdb
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\App1.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\priconfig.xml
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\layout.resfiles
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\resources.resfiles
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\pri.resfiles
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\LanguageQualifiers.txt
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\ProjectArchitectures.txt
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\priconfig.xml.intermediate
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\layout.resfiles.intermediate
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\resources.resfiles.intermediate
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\obj\Release\pri.resfiles.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\bin\Release\App1.exe
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\bin\Release\App1.pdb
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\bin\Release\resources.pri
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\bin\Release\AppxManifest.xml
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\bin\Release\App1.build.appxrecipe
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\bin\Release\Color_Picker.dll
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\bin\Release\Color_Picker.pdb
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\bin\Release\Color_Picker.pri
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\App1.csprojResolveAssemblyReference.cache
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\App.g.i.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\App.g.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\Common\StandardStyles.g.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\MainPage.g.i.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\MainPage.g.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\XamlTypeInfo.g.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\App.xaml
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\Common\StandardStyles.xaml
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\MainPage.xaml
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\App1.exe
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\App1.pdb
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\App1.csproj.GenerateResource.Cache
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\priconfig.xml
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\priconfig.xml.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\layout.resfiles
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\layout.resfiles.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\resources.resfiles
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\resources.resfiles.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\pri.resfiles
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\pri.resfiles.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\qualifiers.txt
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\qualifiers.txt.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\obj\Release\ProjectArchitectures.txt

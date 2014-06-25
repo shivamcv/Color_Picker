@@ -1,0 +1,34 @@
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\bin\Release\Color_Picker.dll
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\bin\Release\Color_Picker.pdb
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\bin\Release\Color_Picker.pri
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\Themes\Generic.g.i.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\Themes\Generic.g.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\XamlTypeInfo.g.cs
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\Themes\Generic.xaml
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\Color_Picker.dll
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\Color_Picker.pdb
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\priconfig.xml
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\layout.resfiles
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\resources.resfiles
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\pri.resfiles
+D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\obj\Release\LanguageQualifiers.txt
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\bin\Release\Color_Picker.dll
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\bin\Release\Color_Picker.pdb
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\bin\Release\Color_Picker.pri
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\Themes\Generic.g.i.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\Themes\Generic.g.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\XamlTypeInfo.g.cs
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\Themes\Generic.xaml
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\Color_Picker.dll
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\Color_Picker.pdb
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\priconfig.xml
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\priconfig.xml.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\layout.resfiles
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\layout.resfiles.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\resources.resfiles
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\resources.resfiles.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\pri.resfiles
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\pri.resfiles.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\qualifiers.txt
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\qualifiers.txt.intermediate
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\obj\Release\MultipleQualifiersPerDimensionFound.txt

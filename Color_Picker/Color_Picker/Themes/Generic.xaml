@@ -1,0 +1,89 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Color_Picker">
+
+    <Style x:Key="CenterThumbStyle" TargetType="Thumb">
+        <Setter Property="Background" Value="Transparent"/>
+
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Thumb">
+                    <Grid>
+                        <VisualStateManager.VisualStateGroups>
+                            <VisualStateGroup x:Name="CommonStates">
+                                <VisualState x:Name="Normal"/>
+                                <VisualState x:Name="PointerOver"/>
+                                <VisualState x:Name="Pressed"/>
+                                <VisualState x:Name="Disabled"/>
+                            </VisualStateGroup>
+                            <VisualStateGroup x:Name="FocusStates">
+                                <VisualState x:Name="Unfocused"/>
+                                <VisualState x:Name="Focused"/>
+                            </VisualStateGroup>
+                        </VisualStateManager.VisualStateGroups>
+                        <Border x:Name="Background" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}"/>
+                        <Border x:Name="BackgroundPointerOver" BorderBrush="{StaticResource ThumbPointerOverBorderThemeBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{StaticResource ThumbPointerOverBackgroundThemeBrush}" Opacity="0"/>
+                        <Border x:Name="BackgroundPressed" BorderBrush="{StaticResource ThumbPressedBorderThemeBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{StaticResource ThumbPressedBackgroundThemeBrush}" Opacity="0"/>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="local:Clr_Pckr">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate x:Name="abc" TargetType="local:Clr_Pckr">
+                    <Viewbox x:Name="clrViewbox" >
+                        <Grid Height="100" Width="100">
+                            <TextBlock x:Name="test" Height="20" Width="30"/>
+                            <Border x:Name="reference" Height="1" Width="1" BorderBrush="Blue" BorderThickness="0.5"  />
+                            <Ellipse x:Name="FinalColor" Fill="Transparent" Height="80" Width="80"/>
+                            <!--<Border BorderBrush="Black" BorderThickness="1">-->
+                            <Image Height="100" Width="100"  x:Name="ColorImg" />
+                            <!--</Border>-->
+                            <Canvas Height="100" Width="100">
+                                <Grid x:Name="pointer" Margin="20,20,0,0" RenderTransformOrigin="3.8,3.8">
+                                    <Grid.RenderTransform >
+                                        <CompositeTransform x:Name="rtrnsfrm" Rotation="0"/>
+                                    </Grid.RenderTransform>
+                                    <!--<Ellipse HorizontalAlignment="Left" VerticalAlignment="Top" Height="2" Width="2" Fill="White" />-->
+                                    <!--<Thumb x:Name="thumbPointer" Style="{StaticResource CenterThumbStyle}" Height="8" Width="8"  HorizontalAlignment="Right" VerticalAlignment="Center" />-->
+                                    <Ellipse Height="8" Width="8" Stroke="Black" StrokeThickness="1" />
+                                </Grid>
+                            </Canvas>
+                            <Rectangle x:Name="rectColor"    Height="40.5" Width="43" RenderTransformOrigin="0.5,0.5" >
+                                <Rectangle.RenderTransform>
+                                    <RotateTransform Angle="45"/>
+                                </Rectangle.RenderTransform>
+
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush>
+                                        <GradientStopCollection>
+                                            <GradientStop x:Name="gdStart" Color="#FFFFFFFF" Offset="0" />
+                                            <GradientStop x:Name="gdStop" Offset="0.7" Color="#FF41834A"/>
+                                            <GradientStop x:Name="gdblack" Offset="1" Color="Black"/>
+                                        </GradientStopCollection>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Canvas x:Name="innerCanvas" Height="40.5" Width="43" RenderTransformOrigin="0.5,0.5">
+                                <Canvas.RenderTransform>
+                                    <RotateTransform Angle="45" />
+                                </Canvas.RenderTransform>
+                                <Grid Canvas.Left="20" Canvas.Top="20"  x:Name="innerEll">
+                                    <Ellipse Height="8" Width="8" Stroke="White" StrokeThickness="1" />
+                                    <Thumb x:Name="thumbInnerEll"  Style="{StaticResource CenterThumbStyle}"    Height="8" Width="8"  HorizontalAlignment="Right" VerticalAlignment="Center" />
+                                </Grid>
+                            </Canvas>
+                        </Grid>
+
+                    </Viewbox>
+
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

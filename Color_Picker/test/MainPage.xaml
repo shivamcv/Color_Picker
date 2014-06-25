@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="test.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:test"
+   xmlns:control="using:Color_Picker"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   
+    
+    mc:Ignorable="d"
+    
+    >
+
+    <Grid  x:Name="baseGrid" >
+       
+        <control:Clr_Pckr   x:Name="asd"  />
+        <Ellipse x:Name="testEll" Fill="{Binding ElementName=asd, Path=SelectedColor}" VerticalAlignment="Top" HorizontalAlignment="Left" Stroke="White" StrokeThickness="1"  Height="200" Width="200" />
+        
+    </Grid>
+</Page>

@@ -1,0 +1,2 @@
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\App1\App1.csproj;neutral
+C:\Users\shivam.singh\Desktop\temp\Color_Picker\Color_Picker\Color_Picker\Color_Picker.csproj;neutral

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIMFORM-W22</Machine>
+    <WindowsUser>Shivam.Singh</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C935B3398946B078C852F09520E4180A2BF1F0955C9D4FAA3823846607382C03</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a1fcab30-085f-4268-9fb2-00e07073a61d_1.0.0.0_neutral__9gmh7w3vzd4d6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a1fcab30-085f-4268-9fb2-00e07073a61d_9gmh7w3vzd4d6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a1fcab30-085f-4268-9fb2-00e07073a61d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Shivam.Singh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-18T06:59:36.843</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2013-02-18T07:11:56.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Debug\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+      <Modified>2013-02-18T07:11:56.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\bin\Debug\Color_Picker.pdb">
+      <PackagePath>Color_Picker.pdb</PackagePath>
+      <Modified>2013-02-18T07:11:42.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\bin\Debug\Color_Picker.dll">
+      <PackagePath>Color_Picker.dll</PackagePath>
+      <Modified>2013-02-18T07:11:42.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-18T06:58:11.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-02-18T07:11:55.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\Color_Picker\bin\Debug\Themes\Generic.xaml">
+      <PackagePath>Color_Picker\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-02-18T07:06:17.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2012\Projects\Color_Picker\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-18T06:59:36.777</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
